@@ -1,0 +1,136 @@
+body{
+  margin:0;
+  background-color: #232323;
+}
+#lt_inf, #lt_inf_1{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 25px;
+  color:white;
+  letter-spacing: 2px;
+}
+#lt_info{
+  width: 20%;
+  float: left;
+  margin-top: 20%;
+  padding:20px;
+  border:solid 2px grey;
+  border-radius: 6px;
+}
+#lt_info_1{
+  width: 20%;
+  float: right;
+  margin-top: 19%;
+  padding:20px;
+  border:solid 2px grey;
+  border-radius: 6px;
+}
+#grid{
+  max-width: 800px;
+  margin: 0 auto;
+}
+#stripe{
+  margin:0;
+  background-color: white;
+  height: 30px;
+}
+#w_w{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 80px;
+  margin:0;
+
+  letter-spacing: 5px;
+}
+#nam{
+  background-color: steelBlue;
+  margin:0;
+  height:100px;
+}
+.g_items{
+  border-radius: 6px;
+  background-color: grey;
+  float:left;
+  height:20%;
+  width:21%;
+  margin: 1.66%;
+  padding-bottom: 21%;
+  margin-top: 20px;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+.text{
+  color : white;
+  position:absolute;
+  top:75%;
+  left: 5%;
+}
+.place{
+  position: relative;
+  top:50%
+  left:50%
+}
+#a_but{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  border:0;
+  border-radius: 50%;
+  background-color: green;
+}
+#w_but{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  border:0;
+  border-radius: 50%;
+  background-color: red;
+}
+#p_but{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  border:0;
+  border-radius: 50%;
+  background-color: orange;
+}
+#g_but{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  border:0;
+  border-radius: 50%;
+  background-color: yellow;
+}
+#leg{
+  letter-spacing: 2px;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  float:right;
+  max-width: 600px;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.links{
+  padding-right: 40px;
+  padding-left: 20px;
+}
+#rl{
+  float:left;
+  letter-spacing: 2px;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 5px;
+  text-decoration:none;
+  color:black;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+#new{
+  float:left;
+  background-color: transparent;
+  border: 0;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  margin-left: 20px;
+  margin-top: 4px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  outline: 0;
+}
+.p_pos{
+  background-color: green;
+}
+.pos_chang{
+  background-color: grey;
+}
+/*font-family: 'ZCOOL QingKe HuangYou', cursive;*/
